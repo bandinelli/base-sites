@@ -55,6 +55,12 @@
   <div ng-view></div>
 
   <footer class="rodape">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+        </div>
+      </div>
+    </div>
   </footer>
 
   <script src="bower_components/jquery/dist/jquery.min.js"></script>
